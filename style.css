@@ -438,16 +438,16 @@ p {
     }
 
     .price-area .inner-area .text {
-      font-size: 25px;
-      font-weight: 400;
+      font-size: 13px;
+      font-weight: 250;
       position: absolute;
       top: -10px;
       left: 17px;
     }
 
     .price-area .inner-area .price {
-      font-size: 45px;
-      font-weight: 500;
+      font-size: 28px;
+      font-weight: 350;
       margin-left: 16px;
     }
 
